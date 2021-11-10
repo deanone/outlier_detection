@@ -1,4 +1,4 @@
-This repo contains a native Python implementation of the outlier detection method proposed by Basu and Meckesheimer
+This repo contains a native Python implementation of the outlier detection method proposed by Basu and Meckesheimer:
 
 'Automatic outlier detection for time series: an application to sensor data'
 
